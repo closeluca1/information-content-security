@@ -37,3 +37,7 @@ Livros Avançados:
 - "Real-World Bug Hunting: A Field Guide to Web Hacking" de Peter Yaworski (Este livro se concentra em caça a bugs e identificação de vulnerabilidades em aplicativos web).
 
 #
+
+### Objetivo
+
+- CSSLP Certified Secure Software Lifecycle Professional
