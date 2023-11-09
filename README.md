@@ -12,7 +12,7 @@
 
 ### Leitura futura
 
-- ISO/IEC 27001
+- ISO/IEC 27002
 - ISO/IEC 27034
 
 Livros Gerais de Segurança da Informação:
